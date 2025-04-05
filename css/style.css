@@ -1,0 +1,33 @@
+:root{
+    --bs-blue: #081637;
+}
+
+/* header1 section start  */
+
+.header1 button:hover{
+    background-color:#081637;
+    color: aliceblue;
+}
+
+ /* header1 section end  */
+
+/* header2 section start  */
+
+.header2 .container-fluid{
+    background-color:#081637;
+}
+
+/* header2 section end  */
+
+/* footer section start  */
+
+.footer ul li:hover{
+    color: aliceblue;
+}
+
+.footer button:hover{
+    background-color:#081637;
+    color: white;
+}
+
+/* footer section end  */
